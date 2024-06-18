@@ -299,3 +299,5 @@ resource "aws_security_group_rule" "frontend_default_vpc" {
 
 
 
+
+
